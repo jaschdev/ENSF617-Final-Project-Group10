@@ -1,0 +1,2 @@
+model,classes,test_accuracy,test_auc,test_f1,best_val_auc,output_dir
+convnextv2_tiny.fcmae_ft_in22k_in1k,"['Normal', 'Pneumonia']",0.959044,0.997254,0.959852,0.998045,/content/drive/MyDrive/pneumonia_outputs
