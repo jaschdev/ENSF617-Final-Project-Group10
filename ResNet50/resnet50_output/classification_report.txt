@@ -1,0 +1,12 @@
+Pneumonia Detection - Final Test Report
+========================================
+Test AUC: 0.9981
+
+              precision    recall  f1-score   support
+
+      Normal       0.93      0.98      0.95       238
+   Pneumonia       0.99      0.97      0.98       641
+
+    accuracy                           0.97       879
+   macro avg       0.96      0.98      0.97       879
+weighted avg       0.98      0.97      0.98       879
