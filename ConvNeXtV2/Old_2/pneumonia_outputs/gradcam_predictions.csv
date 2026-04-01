@@ -1,0 +1,9 @@
+sample_index,true_label,pred_label,correct,prob_Normal,prob_Pneumonia
+189,Normal,Normal,True,0.992679,0.007321
+380,Pneumonia,Pneumonia,True,0.264311,0.735689
+6,Normal,Normal,True,0.985164,0.014836
+163,Normal,Normal,True,0.989058,0.010942
+519,Pneumonia,Pneumonia,True,0.274415,0.725585
+466,Pneumonia,Pneumonia,True,0.270918,0.729082
+488,Pneumonia,Pneumonia,True,0.281599,0.718401
+28,Normal,Normal,True,0.990411,0.009589

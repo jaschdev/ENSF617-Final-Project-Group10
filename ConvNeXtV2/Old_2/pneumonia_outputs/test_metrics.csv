@@ -1,0 +1,2 @@
+model,test_accuracy,test_auc,test_f1,test_loss,n_samples
+convnextv2_base.fcmae_ft_in1k,0.911263,0.994487,0.914575,0.649282,879
