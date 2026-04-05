@@ -1,0 +1,12 @@
+Pneumonia Detection Test Report
+Generated: 2026-03-31 09:55:12.436704
+ROC AUC: 0.9933
+
+              precision    recall  f1-score   support
+
+      NORMAL     0.9578    0.9578    0.9578       237
+   PNEUMONIA     0.9844    0.9844    0.9844       640
+
+    accuracy                         0.9772       877
+   macro avg     0.9711    0.9711    0.9711       877
+weighted avg     0.9772    0.9772    0.9772       877
